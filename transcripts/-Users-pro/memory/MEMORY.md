@@ -1,1 +1,2 @@
 - [GitHub backup](github-backup.md) — everything backed up to sgfly5/claude-backup via sync.sh + Stop hook
+- [Chrome extension](chrome-extension-open-sites.md) — open sites needing user action in Chrome instead of listing steps
