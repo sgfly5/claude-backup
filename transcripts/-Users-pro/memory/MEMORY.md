@@ -1,0 +1,1 @@
+- [GitHub backup](github-backup.md) — everything backed up to sgfly5/claude-backup via sync.sh + Stop hook
