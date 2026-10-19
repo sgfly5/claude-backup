@@ -12,3 +12,5 @@ The user has the Claude in Chrome extension installed. When a task needs them to
 
 **Why:** User said "you have claude on chrome extension now, so in the future just pull up sites i need to take action on. remember that always". They struggled with terminal steps while setting up [[github-backup]].
 **How to apply:** Load the anthropic-skills:chrome-browser skill, then use the mcp__claude-in-chrome__* tools. Stop and hand over to the user for passwords, Google sign-in and confirmations. Never ask them to paste secrets into chat.
+
+User is already signed in to their Google account in Chrome and authorized using that signed-in session in the browser to complete tasks (e.g. GitHub via Google sign-in). Still stop and ask before payments, deleting things, or anything beyond the task asked.
