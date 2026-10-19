@@ -1,4 +1,4 @@
 - [GitHub backup](github-backup.md) — everything backed up to sgfly5/claude-backup via sync.sh + Stop hook
 - [Chrome extension](chrome-extension-open-sites.md) — open sites needing user action in Chrome instead of listing steps
 - [GitHub login setup](github-login-setup.md) — push auth status and one-time token steps
-- [Gmail access setup](gmail-access-setup.md) — Chrome session + keychain app password plan
+- [Gmail access setup](gmail-access-setup.md) — Chrome session + Gmail connector (app password not available)
